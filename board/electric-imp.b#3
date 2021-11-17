@@ -946,27 +946,6 @@
 <attribute name="TOLERANCE" value="1%" x="-5.75" y="-67.25" size="1.778" layer="27" display="off"/>
 <attribute name="TYPE" value="THICK FILM" x="-5.75" y="-67.25" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R11" library="resistors" package="0603" value="22" x="-5.75" y="-69.25" smashed="yes">
-<attribute name="MANUF" value="STACKPOLE" x="-5.75" y="-69.25" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-4.25" y="-69.25" size="1" layer="25" align="center-left"/>
-<attribute name="PARTNUM" value="RMCF0603FT22R0" x="-5.75" y="-69.25" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="-5.75" y="-69.25" size="1.778" layer="27" display="off"/>
-<attribute name="TYPE" value="THICK FILM" x="-5.75" y="-69.25" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R12" library="resistors" package="0603" value="100k" x="-5.75" y="-71.25" smashed="yes">
-<attribute name="MANUF" value="Panasonic" x="-5.75" y="-71.25" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-4.25" y="-71.25" size="1" layer="25" align="center-left"/>
-<attribute name="PARTNUM" value="‎ERJ-3EKF1003V‎" x="-5.75" y="-71.25" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="-5.75" y="-71.25" size="1.778" layer="27" display="off"/>
-<attribute name="TYPE" value="THICK FILM" x="-5.75" y="-71.25" size="1.778" layer="27" display="off"/>
-</element>
-<element name="R13" library="resistors" package="0603" value="1k" x="-5.75" y="-73.25" smashed="yes">
-<attribute name="MANUF" value="Panasonic" x="-5.75" y="-73.25" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-4.25" y="-73.25" size="1" layer="25" align="center-left"/>
-<attribute name="PARTNUM" value="‎ERJ-3EKF1001V‎" x="-5.75" y="-73.25" size="1.778" layer="27" display="off"/>
-<attribute name="TOLERANCE" value="1%" x="-5.75" y="-73.25" size="1.778" layer="27" display="off"/>
-<attribute name="TYPE" value="THICK FILM" x="-5.75" y="-73.25" size="1.778" layer="27" display="off"/>
-</element>
 </elements>
 <signals>
 <signal name="SHIELD">

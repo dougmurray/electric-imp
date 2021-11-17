@@ -4175,8 +4175,7 @@ a 12-bit, 1 MSPS, analog-to-digital converter (ADC). The frequency generator all
 <text x="10.16" y="93.98" size="2.54" layer="97" align="top-left">pull-ups might 
 not be needed:
 check with uP</text>
-<text x="177.8" y="76.2" size="2.54" layer="97" align="top-left">Calibration resistances,
-switched by ADG812</text>
+<text x="177.8" y="76.2" size="2.54" layer="97" align="top-left">Calibration resistances</text>
 </plain>
 <instances>
 <instance part="U1" gate="A" x="127" y="78.74" smashed="yes">

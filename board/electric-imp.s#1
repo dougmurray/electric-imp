@@ -4023,6 +4023,7 @@ a 12-bit, 1 MSPS, analog-to-digital converter (ADC). The frequency generator all
 <part name="R11" library="resistors" deviceset="RESISTOR" device="0603" technology="-22-" value="22"/>
 <part name="R12" library="resistors" deviceset="RESISTOR" device="0603" technology="-100K-" value="100k"/>
 <part name="R13" library="resistors" deviceset="RESISTOR" device="0603" technology="-1K-" value="1k"/>
+<part name="R14" library="resistors" deviceset="RESISTOR" device="0603" technology="-20K-" value="20k"/>
 </parts>
 <sheets>
 <sheet>
@@ -4278,6 +4279,10 @@ switched by ADG812</text>
 <instance part="R13" gate="R1" x="193.04" y="60.96" smashed="yes" rot="R90">
 <attribute name="NAME" x="191.516" y="60.96" size="1.778" layer="95" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="194.564" y="60.96" size="1.778" layer="96" rot="R90" align="top-center"/>
+</instance>
+<instance part="R14" gate="R1" x="124.46" y="55.88" smashed="yes">
+<attribute name="NAME" x="124.46" y="57.404" size="1.778" layer="95" align="bottom-center"/>
+<attribute name="VALUE" x="124.46" y="54.356" size="1.778" layer="96" align="top-center"/>
 </instance>
 </instances>
 <busses>

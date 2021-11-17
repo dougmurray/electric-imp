@@ -967,6 +967,13 @@
 <attribute name="TOLERANCE" value="1%" x="-5.75" y="-73.25" size="1.778" layer="27" display="off"/>
 <attribute name="TYPE" value="THICK FILM" x="-5.75" y="-73.25" size="1.778" layer="27" display="off"/>
 </element>
+<element name="R14" library="resistors" package="0603" value="20k" x="-5.75" y="-75.25" smashed="yes">
+<attribute name="MANUF" value="Stackpoke" x="-5.75" y="-75.25" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="-4.25" y="-75.25" size="1" layer="25" align="center-left"/>
+<attribute name="PARTNUM" value="RMCF0603FT20K0" x="-5.75" y="-75.25" size="1.778" layer="27" display="off"/>
+<attribute name="TOLERANCE" value="1%" x="-5.75" y="-75.25" size="1.778" layer="27" display="off"/>
+<attribute name="TYPE" value="THICK FILM" x="-5.75" y="-75.25" size="1.778" layer="27" display="off"/>
+</element>
 </elements>
 <signals>
 <signal name="SHIELD">
